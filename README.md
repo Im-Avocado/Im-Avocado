@@ -10,6 +10,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Italianno&size=80&duration=1&repeat=false&color=6A3FAB&center=true&vCenter=true&width=400&height=77&lines=Info" alt="Info" />
+  ㅤ![1000013973](https://github.com/user-attachments/assets/877b4138-29f2-403c-8b30-f7f151b0bf72)
 </p>
 
 Hello!
