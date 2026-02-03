@@ -16,7 +16,7 @@ Hello!
 ~ I'm Avocado, im still learning these codes ~
 ~ i like to draw, also still learning  ~
 
-also credit to mochilly for these gifs i use
+andd credit to mochilly for these gifs i use
 ᅟ
 <div align="center">
 
