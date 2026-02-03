@@ -21,7 +21,7 @@ Hello!
 </div></b></p>
     </td>
     <td>
-      <img src="https://64.media.tumblr.com/ce0a566767637c03c3d413f6e759804f/38c13933e025a8af-f3/s1280x1920/fc99626b217481af520c3f666dd1345e249b0fb8.gifv" width="260" alt="Right GIF">
+      <img src="https://64.media.tumblr.com/e6e4be002bb945f5f24ccfcc50531801/33e7865278662ce9-5d/s1280x1920/47a0845779fced298833f46fce2b995c179b03f4.pnj" width="260" alt="Right GIF">
     </td>
   </tr>
 </table>
