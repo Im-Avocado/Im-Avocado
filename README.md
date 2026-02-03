@@ -12,7 +12,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Italianno&size=80&duration=1&repeat=false&color=6A3FAB&center=true&vCenter=true&width=400&height=77&lines=Info" alt="Info" />
 </p>
 
-hello!
+Hello!
+~ I'm Avocado, im still learning these codes ~
+~ i like to draw, also still learning  ~
 ᅟ
 <div align="center">
 
