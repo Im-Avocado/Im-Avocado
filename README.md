@@ -3,7 +3,7 @@
 <table border="0">
   <tr align="center">
     <td>
-      <img src="https://64.media.tumblr.com/c981b970f7588d89301cf3c63a717e2d/38c13933e025a8af-6a/s1280x1920/107eda19951a00f770a8bdec69d9bf92ab7facf7.gifv" width="260" alt="Left GIF">
+      <img src="https://64.media.tumblr.com/9c4751bc3d98add590d973dbb60dbc16/33e7865278662ce9-3e/s1280x1920/e0c15dcb0e4558252470185e1407ed3587c61e9e.pnj" width="260" alt="Left GIF">
     </td>
     <td style="vertical-align: middle;">
       <p><b>
